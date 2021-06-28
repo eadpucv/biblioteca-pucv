@@ -45,17 +45,18 @@ h2{
 h3{
     color: #bc2724 ;
     font-size: 1.5em;
-    font-weight:initial;
+    font-weight: bold;
 }
 
 h4{
     color:#1F2624;
-    font-size: 1.3em;
+    font-size: 1.5em;
     font-weight: normal;
 }
 
 li{
     color:#1F2624;
+    list-style: none;
     }
 
     
@@ -136,4 +137,22 @@ li{
 }
 .modelo-atomico{
     width: 100%;
+}
+
+.atomo-biblioteca{
+    width: 35px;
+    float: left;
+    margin-right: 10px;
+}
+
+.molecula-biblioteca{
+    width: 35px;
+    float: left;
+    margin-right: 10px;
+}
+
+.organismo-biblioteca{
+    width: 35px;
+    float: left;
+    margin-right: 10px;
 }
