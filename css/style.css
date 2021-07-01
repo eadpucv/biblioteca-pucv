@@ -142,17 +142,41 @@ li{
 .atomo-biblioteca{
     width: 35px;
     float: left;
-    margin-right: 8px;
+    margin-right: 9px;
 }
 
 .molecula-biblioteca{
     width: 35px;
     float: left;
-    margin-right: 8px;
+    margin-right: 9px;
 }
 
 .organismo-biblioteca{
     width: 35px;
     float: left;
-    margin-right: 8px;
+    margin-right: 9px;
+}
+
+.integración-biblioteca{
+    width: 35px;
+    float: left;
+    margin-right: 9px;
+}
+
+.apertura-biblioteca{
+    width: 35px;
+    float: left;
+    margin-right: 9px;
+}
+
+.versatilidad-biblioteca{
+    width: 35px;
+    float: left;
+    margin-right: 9px;
+}
+
+.funcionalidad-biblioteca{
+    width: 35px;
+    float: left;
+    margin-right: 9px;
 }
